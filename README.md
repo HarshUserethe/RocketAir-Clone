@@ -29,7 +29,7 @@ This website is one of the trending website on awwwards.com and my personal favo
 
 ## Demo
 
-Here is the link of Project Demo
+- Live Demo
 https://harshuserethe.github.io/RocketAir-Clone/
 
 

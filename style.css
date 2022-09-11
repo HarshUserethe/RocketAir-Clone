@@ -2159,3 +2159,50 @@ display: none;
 
 
 }
+
+@media only screen and (max-width: 375px){
+   
+
+    #ball4{
+        position: relative;
+        margin-top: 50%;
+        left: 32%;
+        width: 40%;
+        height: 19%;
+        
+    
+        
+    }
+
+    #frame8{
+        position: relative;
+        top: 19%;
+    }
+
+  #right{
+        background-color: #000;
+    }
+    
+    .main{
+        width: 100%;
+        min-height: 870vh;
+        background: #000;
+    }
+
+    #digital{
+        position: relative;
+        left: -2%;
+    }
+
+    #para{
+        position: relative;
+        left: 44%;
+    }
+
+    sup{
+        position: relative;
+        left: -2%;
+    }
+
+
+}

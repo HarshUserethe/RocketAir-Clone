@@ -2176,7 +2176,7 @@ display: none;
 
     #frame8{
         position: relative;
-        top: 19%;
+        top: 19.5%;
     }
 
   #right{
@@ -2185,7 +2185,7 @@ display: none;
     
     .main{
         width: 100%;
-        min-height: 870vh;
+        min-height: 890vh;
         background: #000;
     }
 
